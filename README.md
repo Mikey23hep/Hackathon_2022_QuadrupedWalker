@@ -1,6 +1,4 @@
-========================================================================================================
-PROJECT INFORMATION
-========================================================================================================
+PROJECT INFORMATION=======================================================================
 Hackathon_2022_QuadrupedWalker
 This is the code for a basic Quadruped Walker. It has manual control via a python GUI as well as autopilot mode via arduino. 
 Version 1.0.0
